@@ -1,0 +1,112 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Lord of the rings",
+      "release_year": 2001,
+      "genre": "Action/Adventure/Drama",
+      "play_time": 178,
+      "seen": false,
+      "director": "Peter Jackson",
+      "img": "./images/lord_of_the_rings.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Hacksaw Ridge",
+      "release_year": 2016,
+      "genre": "Biography/Drama/History",
+      "play_time": 139,
+      "seen": false,
+      "director": "Mel Gibson",
+      "img": "./images/hacksaw_ridge.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Despicable Me",
+      "release_year": 2010,
+      "genre": "Animation/Adventure/Comedy",
+      "play_time": 95,
+      "seen": true,
+      "director": "Pierre Coffin and Chris Renaud",
+      "img": "./images/despicable_me.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Ace Ventura",
+      "release_year": 1994,
+      "genre": "Comedy",
+      "play_time": 86,
+      "seen": false,
+      "director": "Tom Shadyac",
+      "img": "./images/ace_ventura.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Ring",
+      "release_year": 2002,
+      "genre": "Horror/Mystery",
+      "play_time": 115,
+      "seen": false,
+      "director": "Gore Verbinski",
+      "img": "./images/the_ring.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Indiana Jones",
+      "release_year": 1981,
+      "genre": "Action/Adventure",
+      "play_time": 115,
+      "seen": true,
+      "director": "Steven Spielberg",
+      "img": "./images/indiana_jones.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Nyckeln till frihet",
+      "release_year": 1994,
+      "genre": "Drama",
+      "play_time": 142,
+      "seen": false,
+      "director": "Frank Darabont",
+      "img": "./images/nyckeln_till_frihet.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Soul",
+      "release_year": 2020,
+      "genre": "Animation/Adventure/Comedy",
+      "play_time": 100,
+      "seen": true,
+      "director": "Pete Docter and Kemp Powers",
+      "img": "./images/soul.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Guardians of the Galaxy",
+      "release_year": 2014,
+      "genre": "Action/Adventure/Comedy",
+      "play_time": 121,
+      "seen": false,
+      "director": "James Gunn",
+      "img": "./images/guardians_of_the_galaxy.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Shutter Island",
+      "release_year": 2010,
+      "genre": "Mystery/Thriller",
+      "play_time": 138,
+      "seen": true,
+      "director": "Martin Scorsese",
+      "img": "./images/shutter_island.jpg"
+    },
+    {
+      "title": "Django Unchained",
+      "genre": "Drama/Western",
+      "release_year": "2012",
+      "seen": false,
+      "img": "./images/generic_movie.jpg",
+      "id": 11
+    }
+  ]
+}
